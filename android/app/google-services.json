@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349377265203",
+    "project_id": "leaderboard-47576",
+    "storage_bucket": "leaderboard-47576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349377265203:android:2260d273eaffc231006d46",
+        "android_client_info": {
+          "package_name": "com.example.leaderboard_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349377265203-m2i547adteu82l2kol3hcedlfh3ghd9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfStRg0fxr9xyUbPJvAdkzgfH8Q0oXf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349377265203-m2i547adteu82l2kol3hcedlfh3ghd9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
